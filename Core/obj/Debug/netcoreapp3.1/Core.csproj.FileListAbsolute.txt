@@ -1,0 +1,11 @@
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.sourcelink.json
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\omerf\Desktop\projects\northwind-api--.net\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
