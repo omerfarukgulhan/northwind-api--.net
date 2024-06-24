@@ -76,3 +76,4 @@ C:\Users\omerf\Desktop\projects\northwind-api--.net\WebAPI\bin\Debug\netcoreapp3
 C:\Users\omerf\Desktop\projects\northwind-api--.net\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\omerf\Desktop\projects\northwind-api--.net\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\omerf\Desktop\projects\northwind-api--.net\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\omerf\Desktop\projects\northwind-api--.net\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
