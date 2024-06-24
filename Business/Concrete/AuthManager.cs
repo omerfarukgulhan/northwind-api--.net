@@ -59,6 +59,10 @@ namespace Business.Concrete
                 Status = true
             };
             _userService.Add(user);
+
+            //var result = _userService.GetByMail(userForRegisterDto.Email);
+            //result.Id
+
             return new SuccessDataResult<User>(user, "Kayıt oldu");
         }
 

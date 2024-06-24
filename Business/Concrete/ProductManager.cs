@@ -44,6 +44,13 @@ namespace Business.Concrete
             return new SuccessResult(Messages.ProductAdded);
         }
 
+        [SecuredOperation("admin")]
+        public IResult Delete(Product product)
+        {
+            _productDal.Delete(product);
+            return new SuccessResult(Messages.ProductDeleted);
+        }
+
         public IDataResult<List<Product>> GetAll()
         {
             if (DateTime.Now.Hour == 15)
@@ -74,6 +81,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails(), Messages.ProductsListed);
         }
 
+        [SecuredOperation("admin")]
         public IResult Update(Product product)
         {
             throw new NotImplementedException();
